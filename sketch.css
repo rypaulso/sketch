@@ -1,0 +1,18 @@
+.row{
+  width:31.25px;
+  height:31.25px;
+}
+
+.column{
+  display: inline-block;
+}
+
+.highlight{
+  background: red;
+}
+
+.wrapper{
+  border: 1px solid black;
+  width:500px;
+  height:500px;
+}
